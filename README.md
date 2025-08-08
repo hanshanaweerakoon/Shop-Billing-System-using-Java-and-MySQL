@@ -66,7 +66,7 @@ The system allows shop owners to:
 
 ---
 
-## 📸 More Screenshots
+## 📸 UI Screenshots
 <img width="376" height="483" alt="login" src="https://github.com/user-attachments/assets/ab842d19-8344-4746-8ad6-fc00e7b55406" />
 
 ---
