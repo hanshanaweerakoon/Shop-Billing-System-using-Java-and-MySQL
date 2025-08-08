@@ -1,36 +1,29 @@
 # Shop-Billing-System
 The system allows shop owners to:
-✔ Generate sales bills and invoices
-✔ Manage stock and inventory
-✔ Calculate prices and transactions
-✔ Print receipts and reports
+- Generate sales bills and invoices
+- Manage stock and inventory
+- Calculate prices and transactions
+- Print receipts and reports
 
 
 ---
 
 ## 🚀 Features
 1. Sales Billing
-Add items with Unit Price, Quantity, and Total Price
-
-Print bills for customers
-
-Clear All to reset the form
-
-Calculator for manual price adjustments
+   * Add items with Unit Price, Quantity, and Total Price
+   * Print bills for customers
+   * Clear All to reset the form
+   * Calculator for manual price adjustments
 
 2. Stock Management
-Add new stock items
-
-Update existing stock (Qly = Quantity)
-
-View stock details (Code, Name, Unit Price)
+   * Add new stock items
+   * Update existing stock (Qly = Quantity)
+   * View stock details (Code, Name, Unit Price)
 
 3. Reports & Transactions
-Generate sales reports
-
-View transaction history
-
-Inquiry for checking product details
+   * Generate sales reports
+   * View transaction history
+   * Inquiry for checking product details
 
 ---
 
@@ -46,7 +39,7 @@ Inquiry for checking product details
 ## 📥 Installation & Setup
 1. **Clone the repository**
    bash
-   git clone https://github.com/hanshanaweerakoon/Library-Management-System-Java-MySQL-.git
+   git clone https://github.com/hanshanaweerakoon/Shop-Billing-System-using-Java-and-MySQL.git
 
 2. **Open in NetBeans**
 
